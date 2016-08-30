@@ -1,3 +1,7 @@
 ## Treehouse
 
-This repo is for all my coursefiles  completed through teamtreehouse
+This repo is for all my coursefiles  completed through teamtreehouse.com
+
+Also checkout my Treehouse profile [here](https://github.com/danielbutler/)
+
+![](http://ichef.bbci.co.uk/news/624/cpsprodpb/C4F4/production/_87702405_e799517c-1b1a-4837-bf8f-3d25b4a88d0c.jpg)
